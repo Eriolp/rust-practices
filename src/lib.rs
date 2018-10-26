@@ -1,4 +1,15 @@
 #[cfg(test)]
+
+mod network {
+    fn connect() {
+    }
+}
+
+mod client {
+    fn connect() {
+    }
+}
+
 mod tests {
     #[test]
     fn it_works() {

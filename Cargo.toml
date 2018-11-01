@@ -1,0 +1,6 @@
+[package]
+name = "error-checker"
+version = "0.1.0"
+authors = ["Bruno T. Hernández <b.torres.h@gmail.com>"]
+
+[dependencies]
